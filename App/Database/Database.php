@@ -1,6 +1,6 @@
 <?php
+namespace App\Database;
 use PDO;
-
 class Database
 {
     protected static $host = "localhost";

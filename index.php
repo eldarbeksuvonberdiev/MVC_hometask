@@ -1,6 +1,6 @@
 <?php
 
-use App;
+// use App;
 
 include "autoload.php";
 include "web.php";

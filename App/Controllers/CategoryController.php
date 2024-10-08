@@ -8,7 +8,7 @@ class CategoryController{
 
     public function index(){
         $models = Category::all();
-        include realpath(__DIR__ . "/..Views/categories/index.php");
+        include realpath(__DIR__ . "/../Views/categories/index.php");
     }
 
     public function test(){
